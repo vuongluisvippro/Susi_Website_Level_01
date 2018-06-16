@@ -1,0 +1,120 @@
+.navColor{
+  border:0;
+  background-color:#5F5F5F;
+}
+
+.groupItem{
+  font-size:18px;
+  font-weight:500;
+  color:black;
+}
+
+.item{
+  color:black;
+  text-transform:uppercase;
+  padding-top:5px;
+}
+
+.btnHome{
+  font-size:18px;
+  border:none;
+  background:#4CAF50;
+}
+
+.item span{
+  text-transform:capitalize;
+}
+
+.intro{
+  padding:20px 20px;
+  background:#DDFFDD;
+  margin-top:20px;
+  font-size:20px;
+  color:black;
+}
+
+.list{
+  list-style-type:none;
+  margin-left:-38px;
+  margin-top:25px;
+}
+
+.line{
+  height:4px !important;
+  font-size:4px;
+}
+
+.examTitle{
+  margin-left:18px;
+  padding-top:18px;
+  font-size:22px;
+  color:black;
+}
+
+.code{
+  padding:18px;
+}
+
+.codeFormat{
+  font-size:22px;
+}
+
+.example{
+  height:200px;
+  background:#F1F1F1;
+}
+
+.paragraph{
+  color:black;
+  font-size:15px;
+  font-weight:500;
+}
+
+.h2{
+  color:black;
+}
+
+.content{
+}
+
+.subTitle{
+  height:100%;
+  margin-top:30px;
+}
+
+.dotCom{
+  margin-left:-10px;
+  color:#4CAF50;
+}
+
+.logoColor{
+  color:#555555;
+  font-weight:600;
+}
+
+.logoSite{
+  display:inline-block;
+  width:100%;
+}
+
+.iconHome{
+  border:0 !important;
+  background-color:#5F5F5F !important;
+  color:white !important;
+}
+
+.DropNav{
+  margin-top:0px;
+}
+
+li.active.iconHome{
+}
+
+.navItem{
+  height:100%;
+  font-size:20px;
+  margin-top:1px;
+  vertical-align:top;
+  color:white;
+}
+
